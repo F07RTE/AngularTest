@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Organizador-Tarefas"
+    }
+  },
+  "defaultProject": "Organizador-Tarefas",
+  "cli": {
+    "analytics": "78837c17-14e8-4d99-8fbc-43d178613486"
+  }
 }
